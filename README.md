@@ -131,14 +131,19 @@ Disaster-response system designed to detect living persons under rubble using **
 
 ## 📊 GitHub
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemasumarthianbalagan09&show_icons=true&theme=tokyonight&hide_border=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=080812" height="170">
+<a href="https://github.com/Hemasumarthianbalagan09">
+<img src="https://github-readme-stats.vercel.app/api?username=Hemasumarthianbalagan09&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasumarthianbalagan09&layout=compact&theme=tokyonight&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=080812" height="170">
+<a href="https://github.com/Hemasumarthianbalagan09">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemasumarthianbalagan09&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</a>
 
 </div>
-
 ---
 
 ## 🌱 Currently Learning
