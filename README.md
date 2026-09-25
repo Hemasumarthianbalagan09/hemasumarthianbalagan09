@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpg.png" width="180" alt="Hema Sumarthi">
+<img src="./profile.jpg" width="180" alt="Hema Sumarthi">
 
 <br><br>
 
