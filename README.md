@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./profile.jpg.png" width="180" alt="Hema Sumarthi">
+
+<br><br>
+
 # ✦ HEMA SUMARTHI ✦
 
 ### 🎓 AI & DATA SCIENCE STUDENT
@@ -14,8 +18,8 @@
   <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logoColor=white" alt="Portfolio">
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/hema-sumarthi-a89111377/">
+  <img src="https://img.shields.io/badge/💼%20LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -41,19 +45,19 @@ SQL and Data Analytics** while developing real-world projects.
 
 <div align="center">
 
-### Programming
+### ☕ Programming
 
 <img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white">
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 <img src="https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Data%20Analytics-A855F7?style=for-the-badge">
 <img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge">
 
-### Tools
+### 🔧 Tools
 
 <img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
@@ -154,6 +158,7 @@ Disaster-response system designed to detect living persons under rubble using **
 <a href="https://hemasumarthianbalagan09.github.io/HEMA_PORTFOLIO/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge">
 </a>
+
 <a href="https://www.linkedin.com/in/hema-sumarthi-a89111377/">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-A855F7?style=for-the-badge">
 </a>
